@@ -1,19 +1,3 @@
-### **🚀 Professional README for Your GitHub Repo**
-Here’s a **structured and professional** README file for your **AI-Powered House Rental Assistant** project.
-
----
-
-### 📌 **Create README File**
-Inside your project root (`ai-house-rental-assistant`), create a `README.md` file:
-
-```bash
-touch README.md
-```
-
-Then, **open and paste the following content**:
-
----
-
 ## **🏡 AI House Rental Assistant**
 🚀 **AI-powered house rental assistant that automates property search, applications, and document management in the Swiss rental market.**  
 
